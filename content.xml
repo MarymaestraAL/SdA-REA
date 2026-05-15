@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260515134620AURPZO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026051513462031KYWA</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MI ENTORNO, MI PATRIMONIO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje &quot;Mi entorno, mi patrimonio&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Mª Ángeles Pascual Sánchez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>¡Hola mis queridos alumnos y alumnas! Nos aventuramos a comenzar nuestra siguiente misión... ¡descubrir nuestro entorno! Durante estas 3 semanas, nos dedicaremos a trabajar sobre nuestro entorno, concretamente sobre nuestro municipio, El Ejido. 
+Para ello, os tendréis que convertir en detectives especializados y descubrir todos los detalles que esconde El Ejido: entornos naturales, tradiciones, fauna y flora...
+
+Todo este trabajo lo realizaremos paso a paso, hasta llegar a nuestro producto final: la elaboración de una guía didáctica y un vídeo explicativo donde podáis mostrar vuestro municipio al resto.
+
+¿PREPARADOS¿ ¡QUE EMPIECE LA AVENTURA! 
+
+¡Mucha suerte y ánimo, campeones!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778845556938</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>8f79c756-d6b1-47ea-b999-e195cd7a1dfb</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778824183755-v8yafcen8</odePageId>
+  <odeParentPageId>8f79c756-d6b1-47ea-b999-e195cd7a1dfb</odeParentPageId>
+  <pageName>1. Guía didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778824183755-v8yafcen8</odePageId>
+      <odeBlockId>block-1778824311689-bl575mpfe</odeBlockId>
+      <blockName></blockName>
+      <iconName>guide</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778824183755-v8yafcen8</odePageId>
+          <odeBlockId>block-1778824311689-bl575mpfe</odeBlockId>
+          <odeIdeviceId>idevice-1778824311679-tohvxmlpp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 560px;">
+<figcaption class="figcaption header"><strong>Guía didáctica</strong></figcaption>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a></span></figcaption>
+</figure>
+<p>Os presentamos la guía didáctica que marcará el desarrollo de nuestra Situación de Aprendizaje. En ella se relacionan las tareas del proyecto que vamos a realizar con los criterios de evaluación. </p>
+<figure class="exe-figure exe-media position-center" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Guía didáctica </strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/1. Guía didáctica_Mi entorno, mi patrimonio.docx (2).pdf" type="application/pdf" data-mce-fragment="1"></embed></figure>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778824311679-tohvxmlpp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>Guía didáctica</strong></figcaption>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a></span></figcaption>\n</figure>\n<p>Os presentamos la guía didáctica que marcará el desarrollo de nuestra Situación de Aprendizaje. En ella se relacionan las tareas del proyecto que vamos a realizar con los criterios de evaluación. </p>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Guía didáctica </strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/1. Guía didáctica_Mi entorno, mi patrimonio.docx (2).pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed></figure>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778836533749-su1ondkrq</odePageId>
+  <odeParentPageId>8f79c756-d6b1-47ea-b999-e195cd7a1dfb</odeParentPageId>
+  <pageName>2. Descripción de la actividad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Descripción de la actividad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778836533749-su1ondkrq</odePageId>
+      <odeBlockId>block-1778836559559-9m7j0xrtf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778836533749-su1ondkrq</odePageId>
+          <odeBlockId>block-1778836559559-9m7j0xrtf</odeBlockId>
+          <odeIdeviceId>idevice-1778836559549-pgnzof5vp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 560px;">
+<figcaption class="figcaption header"><strong>Descripción de la actividad</strong></figcaption>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a></span></figcaption>
+</figure>
+<p>Aquí os mostramos una breve presentación de Canva donde os presentamos en qué va a consistir nuestra Situación de Aprendizaje "Mi entorno, mi patrimonio".</p>
+<p><embed width="600" height="300" src="{{context_path}}/content/resources/Mi entorno, mi patrimonio.pdf" type="application/pdf"></embed></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778836559549-pgnzof5vp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 560px;\">\n<figcaption class=\"figcaption header\"><strong>Descripción de la actividad</strong></figcaption>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a></span></figcaption>\n</figure>\n<p>Aquí os mostramos una breve presentación de Canva donde os presentamos en qué va a consistir nuestra Situación de Aprendizaje \"Mi entorno, mi patrimonio\".</p>\n<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Mi entorno, mi patrimonio.pdf\" type=\"application/pdf\"></embed></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778835340056-9tmj8z81x</odePageId>
+  <odeParentPageId>8f79c756-d6b1-47ea-b999-e195cd7a1dfb</odeParentPageId>
+  <pageName>2. Línea temporal de trabajo</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Línea temporal de trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Línea temporal de trabajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778835340056-9tmj8z81x</odePageId>
+      <odeBlockId>block-1778838927480-l9b8otq4g</odeBlockId>
+      <blockName>Plan de trabajo para el alumno</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778835340056-9tmj8z81x</odePageId>
+          <odeBlockId>block-1778838927480-l9b8otq4g</odeBlockId>
+          <odeIdeviceId>idevice-1778838927465-kg56lhw4d</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 560px;">
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a></span></figcaption>
+</figure>
+<p>A continuación os presentamos cuál será el Plan de trabajo que debemos seguir para completar de forma exitosa nuestra SdA.</p>
+<p><embed width="600" height="300" src="{{context_path}}/content/resources/Plan de trabajo_SdA Mi entorno, mi patrimonio.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778838927465-kg56lhw4d","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 560px;\">\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a></span></figcaption>\n</figure>\n<p>A continuación os presentamos cuál será el Plan de trabajo que debemos seguir para completar de forma exitosa nuestra SdA.</p>\n<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Plan de trabajo_SdA Mi entorno, mi patrimonio.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778824206394-g6jeo14fl</odePageId>
+  <odeParentPageId>8f79c756-d6b1-47ea-b999-e195cd7a1dfb</odeParentPageId>
+  <pageName>3. Seguridad digital</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Seguridad digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778824206394-g6jeo14fl</odePageId>
+      <odeBlockId>block-1778824922645-z9x5vl216</odeBlockId>
+      <blockName>¡Ten mucho cuidado!</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778824206394-g6jeo14fl</odePageId>
+          <odeBlockId>block-1778824922645-z9x5vl216</odeBlockId>
+          <odeIdeviceId>idevice-1778824922631-j9kgdw1qz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de iniciar nuestra investigación por entornos virtuales, es <strong>MUY IMPORTANTE </strong>recordéis que Internet nos ofrece muchos beneficios, pero que debemos tener mucho cuidado de no acceder en páginas que puedan suponer un peligro para nosotros y para los que nos rodean.</p>
+<p>Tened a mano siempre esta infografía para recordar <strong>CÓMO SENTIRNOS SEGUROS EN ENTORNOS DIGITALES. ¡NUESTRA SEGURIDAD ES LO PRIMERO!</strong></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Seguridad Digital</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/2. Seguridad digital.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a></span></figcaption>
+</figure>
+<p><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778824922631-j9kgdw1qz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de iniciar nuestra investigación por entornos virtuales, es <strong>MUY IMPORTANTE </strong>recordéis que Internet nos ofrece muchos beneficios, pero que debemos tener mucho cuidado de no acceder en páginas que puedan suponer un peligro para nosotros y para los que nos rodean.</p>\n<p>Tened a mano siempre esta infografía para recordar <strong>CÓMO SENTIRNOS SEGUROS EN ENTORNOS DIGITALES. ¡NUESTRA SEGURIDAD ES LO PRIMERO!</strong></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Seguridad Digital</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/2. Seguridad digital.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a></span></figcaption>\n</figure>\n<p><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778824241613-7etwzf8i2</odePageId>
+  <odeParentPageId>8f79c756-d6b1-47ea-b999-e195cd7a1dfb</odeParentPageId>
+  <pageName>4. Conocemos nuestro municipio: EL EJIDO</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Conocemos nuestro municipio: EL EJIDO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Conocemos nuestro municipio: EL EJIDO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778824241613-7etwzf8i2</odePageId>
+      <odeBlockId>block-1778844875260-fnttfw27u</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778824241613-7etwzf8i2</odePageId>
+          <odeBlockId>block-1778844875260-fnttfw27u</odeBlockId>
+          <odeIdeviceId>idevice-1778844875251-ajtdpiowu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Descubrirás tu municipio de forma lúdica y divertida!</p>
+<p>Pasa a la siguiente página para descubrir tu primera misión.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778844875251-ajtdpiowu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Descubrirás tu municipio de forma lúdica y divertida!</p>\n<p>Pasa a la siguiente página para descubrir tu primera misión.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778825318359-n5ies19or</odePageId>
+  <odeParentPageId>page-1778824241613-7etwzf8i2</odeParentPageId>
+  <pageName>4.1. Visita virtual</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. Visita virtual</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1. Visita virtual</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778825318359-n5ies19or</odePageId>
+      <odeBlockId>block-1778825393691-oamf739ls</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778825318359-n5ies19or</odePageId>
+          <odeBlockId>block-1778825393691-oamf739ls</odeBlockId>
+          <odeIdeviceId>idevice-1778825393685-lfkpcqma9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>VISITA VIRTUAL POR EL EJIDO</p>
+<p>Para adentrarnos en el tema que vamos a desarrollar en esta SdA, lo primero que haremos será visitar vídeos de Youtube que nos permitan ver nuestro municipio y sus rincones. </p>
+<p>Lo ideal sería que además, te desplazaras físicamente a esos lugares para poder disfrutar de ellos a través de los sentidos. </p>
+<p><a href="https://www.youtube.com/watch?v=fOEV5rsst7c" title="">Conoce El Ejido.</a></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/fOEV5rsst7c" allowfullscreen="allowfullscreen"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778825393685-lfkpcqma9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>VISITA VIRTUAL POR EL EJIDO</p>\n<p>Para adentrarnos en el tema que vamos a desarrollar en esta SdA, lo primero que haremos será visitar vídeos de Youtube que nos permitan ver nuestro municipio y sus rincones. </p>\n<p>Lo ideal sería que además, te desplazaras físicamente a esos lugares para poder disfrutar de ellos a través de los sentidos. </p>\n<p><a href=\"https://www.youtube.com/watch?v=fOEV5rsst7c\" title=\"\">Conoce El Ejido.</a></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/fOEV5rsst7c\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778825338701-7gatlnn9l</odePageId>
+  <odeParentPageId>page-1778824241613-7etwzf8i2</odeParentPageId>
+  <pageName>4.2. Investigamos en profundidad</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. Investigamos en profundidad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.2. Investigamos en profundidad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778825338701-7gatlnn9l</odePageId>
+      <odeBlockId>block-1778832292513-vuza0d67m</odeBlockId>
+      <blockName>Detectives en acción</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778825338701-7gatlnn9l</odePageId>
+          <odeBlockId>block-1778832292513-vuza0d67m</odeBlockId>
+          <odeIdeviceId>idevice-1778832292505-5mcbqiqn4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Cuestionario de preguntas</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/ACTIVIDAD 2_ INVESTIGAMOS EN PROFUNDIDAD (1).pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a></span></figcaption>
+</figure>
+<p>Vamos con la segunda actividad. Ahora que ya conocemos un poco nuestro municipio, es momento de indagar, profundizar y descubrir al máximo sus rincones. </p>
+<p>Nos agruparemos creando grupos de 3-4 alumnos/as y entre todos/as tendremos que responder al siguiente cuestionario de preguntas. </p>
+<p>Es muy importante seleccionar adecuadamente la información, ya que esto dará calidad a nuestro trabajo.</p>
+<p>¡Ánimo con la búsqueda! Seguro que descubrís cosas muy interesantes de nuestro municipio.</p>
+<p><embed width="600" height="300" src="{{context_path}}/content/resources/ACTIVIDAD 2_ INVESTIGAMOS EN PROFUNDIDAD (1).pdf" type="application/pdf"></embed></p>
+<p>Os dejo también el enlace a Drive con el cuestionario. Recordad que es un documento de consulta y para cualquier modificación, tendréis que hacer una copia o descargarlo. </p>
+<p>Enlace Cuestionario Google Drive: <a href="https://docs.google.com/document/d/1QlS2HT7oOYlID076GEK8m0AnK0RitIn6XfCt1gJhaWg/edit?usp=drive_link" title="">https://docs.google.com/document/d/1QlS2HT7oOYlID076GEK8m0AnK0RitIn6XfCt1gJhaWg/edit?usp=drive_link</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778832292505-5mcbqiqn4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Cuestionario de preguntas</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/ACTIVIDAD 2_ INVESTIGAMOS EN PROFUNDIDAD (1).pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a></span></figcaption>\n</figure>\n<p>Vamos con la segunda actividad. Ahora que ya conocemos un poco nuestro municipio, es momento de indagar, profundizar y descubrir al máximo sus rincones. </p>\n<p>Nos agruparemos creando grupos de 3-4 alumnos/as y entre todos/as tendremos que responder al siguiente cuestionario de preguntas. </p>\n<p>Es muy importante seleccionar adecuadamente la información, ya que esto dará calidad a nuestro trabajo.</p>\n<p>¡Ánimo con la búsqueda! Seguro que descubrís cosas muy interesantes de nuestro municipio.</p>\n<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/ACTIVIDAD 2_ INVESTIGAMOS EN PROFUNDIDAD (1).pdf\" type=\"application/pdf\"></embed></p>\n<p>Os dejo también el enlace a Drive con el cuestionario. Recordad que es un documento de consulta y para cualquier modificación, tendréis que hacer una copia o descargarlo. </p>\n<p>Enlace Cuestionario Google Drive: <a href=\"https://docs.google.com/document/d/1QlS2HT7oOYlID076GEK8m0AnK0RitIn6XfCt1gJhaWg/edit?usp=drive_link\" title=\"\">https://docs.google.com/document/d/1QlS2HT7oOYlID076GEK8m0AnK0RitIn6XfCt1gJhaWg/edit?usp=drive_link</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778825347875-bfa7jhedd</odePageId>
+  <odeParentPageId>page-1778824241613-7etwzf8i2</odeParentPageId>
+  <pageName>4.3. Mapa mental</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3. Mapa mental</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.3. Mapa mental</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778825347875-bfa7jhedd</odePageId>
+      <odeBlockId>block-1778832779468-p68bk23r5</odeBlockId>
+      <blockName>Organizamos la información</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778825347875-bfa7jhedd</odePageId>
+          <odeBlockId>block-1778832779468-p68bk23r5</odeBlockId>
+          <odeIdeviceId>idevice-1778832779462-35m0k663w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Ahora que ya hemos recabado toda la información relevante de nuestro municipio, nuestro grupo tendrá que organizar la información.</p>
+<p>Esto nos permitirá seleccionar los datos más importantes y organizarlos en categorías, de forma que nuestro producto final esté organizado y sea claro y atractivo.</p>
+<p>Para ayudaros con esta tarea, se ha creado una plantilla de <strong>mapa mental organizado en diferentes categorías</strong> que debéis cumplimentar en función de la información recabada.</p>
+<p>Os dejo el enlace de Canva con la plantilla: <a href="https://canva.link/p90k5weescgy4hd" title="">https://canva.link/p90k5weescgy4hd</a></p>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Mapa mental</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/3.3. Mapa mental mi entorno mi patrimonio.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a></span></figcaption>
+</figure>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778832779462-35m0k663w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Ahora que ya hemos recabado toda la información relevante de nuestro municipio, nuestro grupo tendrá que organizar la información.</p>\n<p>Esto nos permitirá seleccionar los datos más importantes y organizarlos en categorías, de forma que nuestro producto final esté organizado y sea claro y atractivo.</p>\n<p>Para ayudaros con esta tarea, se ha creado una plantilla de <strong>mapa mental organizado en diferentes categorías</strong> que debéis cumplimentar en función de la información recabada.</p>\n<p>Os dejo el enlace de Canva con la plantilla: <a href=\"https://canva.link/p90k5weescgy4hd\" title=\"\">https://canva.link/p90k5weescgy4hd</a></p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Mapa mental</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/3.3. Mapa mental mi entorno mi patrimonio.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a></span></figcaption>\n</figure>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778825370380-no5if7wlr</odePageId>
+  <odeParentPageId>page-1778824241613-7etwzf8i2</odeParentPageId>
+  <pageName>4.4. Guía turística de El Ejido</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.4. Guía turística de El Ejido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.4. Guía turística de El Ejido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778825370380-no5if7wlr</odePageId>
+      <odeBlockId>block-1778833105194-z13pvchcs</odeBlockId>
+      <blockName>Guía de El Ejido</blockName>
+      <iconName>passport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778825370380-no5if7wlr</odePageId>
+          <odeBlockId>block-1778833105194-z13pvchcs</odeBlockId>
+          <odeIdeviceId>idevice-1778833105184-m31m5qqc3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Ya estamos llegando casi al final! Y seguimos trabajando con nuestro grupo.</p>
+<p>¿Qué haremos ahora? Mostrar toda esa información que hemos recopilado en una guía. Una guía ilustrativa, con imágenes y la información más destacada. Una guía que permita conocer nuestro municipio informando de su historia, sus lugares históricos, qué actividades podemos realizar en él, comidas típicas, entre otros. </p>
+<p>Es momento de dejar volar vuestra imaginación. Ser creativos. Plasmar de forma clara y visual la información. Los detalles son importantes. </p>
+<p>Os facilito un ejemplo de Guía Turística, que puede serviros de modelo para elaborar la vuestra propia.</p>
+<p>¡Estoy segura que vais a hacer un trabajo excelente! ¡A por ello, que ya estamos en la recta final de nuestra SdA!</p>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;">
+<figcaption class="figcaption header"><strong>Guía turística El Ejido</strong></figcaption>
+<embed width="600" height="300" src="{{context_path}}/content/resources/3.4. Guía turística El Ejido.pdf" type="application/pdf" data-mce-fragment="1"></embed>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a></span></figcaption>
+</figure>
+<p><a href="https://canva.link/j3988vsnnt9s5l6" title="">Enlace a la plantilla de Canva</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778833105184-m31m5qqc3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Ya estamos llegando casi al final! Y seguimos trabajando con nuestro grupo.</p>\n<p>¿Qué haremos ahora? Mostrar toda esa información que hemos recopilado en una guía. Una guía ilustrativa, con imágenes y la información más destacada. Una guía que permita conocer nuestro municipio informando de su historia, sus lugares históricos, qué actividades podemos realizar en él, comidas típicas, entre otros. </p>\n<p>Es momento de dejar volar vuestra imaginación. Ser creativos. Plasmar de forma clara y visual la información. Los detalles son importantes. </p>\n<p>Os facilito un ejemplo de Guía Turística, que puede serviros de modelo para elaborar la vuestra propia.</p>\n<p>¡Estoy segura que vais a hacer un trabajo excelente! ¡A por ello, que ya estamos en la recta final de nuestra SdA!</p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\">\n<figcaption class=\"figcaption header\"><strong>Guía turística El Ejido</strong></figcaption>\n<embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/3.4. Guía turística El Ejido.pdf\" type=\"application/pdf\" data-mce-fragment=\"1\"></embed>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a></span></figcaption>\n</figure>\n<p><a href=\"https://canva.link/j3988vsnnt9s5l6\" title=\"\">Enlace a la plantilla de Canva</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778825384052-luimqmba1</odePageId>
+  <odeParentPageId>page-1778824241613-7etwzf8i2</odeParentPageId>
+  <pageName>4.5. Vídeo explicativo de El Ejido</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.5. Vídeo explicativo de El Ejido</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.5. Vídeo explicativo de El Ejido</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778825384052-luimqmba1</odePageId>
+      <odeBlockId>block-1778834708489-ph5yd3jn0</odeBlockId>
+      <blockName>Te presento mi municipio</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778825384052-luimqmba1</odePageId>
+          <odeBlockId>block-1778834708489-ph5yd3jn0</odeBlockId>
+          <odeIdeviceId>idevice-1778834708483-ncclptyax</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Enhorabuena! Ya habéis llegado al último paso. Estáis haciendo un trabajo excelente. </p>
+<p>Vamos a por la última actividad: presentar en vídeo vuestra guía turística. </p>
+<p>Siguiendo con vuestro grupo, tendréis que explicar entre todos en qué consiste vuestra guía. Qué aspectos habéis reflejado y por qué. </p>
+<p>Al final, expondréis brevemente las razones por las que recomendáis visitar el Ejido a aquellas personas que no lo conozcan. </p>
+<p>Os dejo un ejemplo de Youtube de qué elementos debéis tener en cuenta para hacer una descripción de forma adecuada.</p>
+<p><a href="https://www.youtube.com/watch?v=iiJlOiNGl-c" title="Descripción de un lugar">https://www.youtube.com/watch?v=iiJlOiNGl-c</a></p>
+<p></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/iiJlOiNGl-c" allowfullscreen="allowfullscreen"></iframe></p>
+<p>El vídeo explicativo elaborado por cada grupo lo subiremos a Google Drive. En el nombre del archivo debe aparecer el nombre y primer apellido de cada miembro del grupo. </p>
+<p><a href="https://workspace.google.com/intl/es/products/drive/" title="">Enlace Drive</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778834708483-ncclptyax","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Enhorabuena! Ya habéis llegado al último paso. Estáis haciendo un trabajo excelente. </p>\n<p>Vamos a por la última actividad: presentar en vídeo vuestra guía turística. </p>\n<p>Siguiendo con vuestro grupo, tendréis que explicar entre todos en qué consiste vuestra guía. Qué aspectos habéis reflejado y por qué. </p>\n<p>Al final, expondréis brevemente las razones por las que recomendáis visitar el Ejido a aquellas personas que no lo conozcan. </p>\n<p>Os dejo un ejemplo de Youtube de qué elementos debéis tener en cuenta para hacer una descripción de forma adecuada.</p>\n<p><a href=\"https://www.youtube.com/watch?v=iiJlOiNGl-c\" title=\"Descripción de un lugar\">https://www.youtube.com/watch?v=iiJlOiNGl-c</a></p>\n<p></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/iiJlOiNGl-c\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>El vídeo explicativo elaborado por cada grupo lo subiremos a Google Drive. En el nombre del archivo debe aparecer el nombre y primer apellido de cada miembro del grupo. </p>\n<p><a href=\"https://workspace.google.com/intl/es/products/drive/\" title=\"\">Enlace Drive</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778824285469-k1hipg455</odePageId>
+  <odeParentPageId>8f79c756-d6b1-47ea-b999-e195cd7a1dfb</odeParentPageId>
+  <pageName>5. Evaluación</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778824285469-k1hipg455</odePageId>
+      <odeBlockId>block-1778839935875-wsqjkbo2i</odeBlockId>
+      <blockName>Evaluación</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778824285469-k1hipg455</odePageId>
+          <odeBlockId>block-1778839935875-wsqjkbo2i</odeBlockId>
+          <odeIdeviceId>idevice-1778839935852-iqb4ikj9q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estas serán las herramientas de evaluación que usaremos para valorar nuestra SdA.</p>
+<p>Instrumentos de evaluación y <strong>RÚBRICA.</strong></p>
+<p><strong><embed width="600" height="300" src="{{context_path}}/content/resources/Herramientas de evaluación  y rúbrica.pdf" type="application/pdf"></embed></strong></p>
+<p><strong>PORTFOLIO "CUADERNO DE SABIDURÍA" para el alumnado</strong></p>
+<p><strong><embed width="600" height="300" src="{{context_path}}/content/resources/Portfolio Cuaderno de Sabiduría.pdf" type="application/pdf"></embed></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778839935852-iqb4ikj9q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estas serán las herramientas de evaluación que usaremos para valorar nuestra SdA.</p>\n<p>Instrumentos de evaluación y <strong>RÚBRICA.</strong></p>\n<p><strong><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Herramientas de evaluación  y rúbrica.pdf\" type=\"application/pdf\"></embed></strong></p>\n<p><strong>PORTFOLIO \"CUADERNO DE SABIDURÍA\" para el alumnado</strong></p>\n<p><strong><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Portfolio Cuaderno de Sabiduría.pdf\" type=\"application/pdf\"></embed></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778839115078-01ifoxqvf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Curación de contenidos</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778839115078-01ifoxqvf</odePageId>
+      <odeBlockId>block-1778839687759-cwlmtq4vm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778839115078-01ifoxqvf</odePageId>
+          <odeBlockId>block-1778839687759-cwlmtq4vm</odeBlockId>
+          <odeIdeviceId>idevice-1778839687750-oyfhm56eq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Curación de contenido para alumnado y docentes.</p>
+<p></p>
+<p><embed width="600" height="300" src="{{context_path}}/content/resources/Curación de contenidos.pdf" type="application/pdf"></embed></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778839687750-oyfhm56eq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Curación de contenido para alumnado y docentes.</p>\n<p></p>\n<p><embed width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Curación de contenidos.pdf\" type=\"application/pdf\"></embed></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1778824301076-8x2ojkqv3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Créditos</pageName>
+  <odeNavStructureOrder>14</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778824301076-8x2ojkqv3</odePageId>
+      <odeBlockId>block-1778840572176-brcl0r27q</odeBlockId>
+      <blockName>Descargar el fichero</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778824301076-8x2ojkqv3</odePageId>
+          <odeBlockId>block-1778840572176-brcl0r27q</odeBlockId>
+          <odeIdeviceId>idevice-1778840572167-oyqnulzln</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; background-color: #CED4D9; border-color: #7E8C8D; border-style: solid;">
+<tbody>
+<tr style="border-style: dotted;">
+<td style="width: 23.9493%; border-style: solid;">Título</td>
+<td style="width: 76.0507%;">"MI ENTORNO, MI PATRIMONIO"</td>
+</tr>
+<tr>
+<td style="width: 23.9493%;">Descripción </td>
+<td style="width: 76.0507%;">Situación de Aprendizaje destinada al alumnado de 4º de Educación Primaria, del área de Conocimiento del Medio. A través de la cual el alumnado conocerá su municipio haciendo un proceso de investigación. Finalizará con un producto final que consiste en una guía turística y vídeo explicativo.</td>
+</tr>
+<tr>
+<td style="width: 23.9493%;">Autoría</td>
+<td style="width: 76.0507%;">Mª ÁNGELES PASCUAL SÁNCHEZ</td>
+</tr>
+<tr>
+<td style="width: 23.9493%;">Licencia</td>
+<td style="width: 76.0507%;" title="">
+<p><img src="https://creativecommons.org/licenses/by-sa/4.0/" alt="" /><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.32.43.png" width="204" height="74" alt="" /><a href="https://creativecommons.org/licenses/by-sa/4.0/"></a></p>
+<p><a href="https://creativecommons.org/licenses/by-sa/4.0/">https://creativecommons.org/licenses/by-sa/4.0/</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Este contenido fue creado con <a href="https://exelearning.net/" title="">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778840572167-oyqnulzln","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; background-color: #CED4D9; border-color: #7E8C8D; border-style: solid;\">\n<tbody>\n<tr style=\"border-style: dotted;\">\n<td style=\"width: 23.9493%; border-style: solid;\">Título</td>\n<td style=\"width: 76.0507%;\">\"MI ENTORNO, MI PATRIMONIO\"</td>\n</tr>\n<tr>\n<td style=\"width: 23.9493%;\">Descripción </td>\n<td style=\"width: 76.0507%;\">Situación de Aprendizaje destinada al alumnado de 4º de Educación Primaria, del área de Conocimiento del Medio. A través de la cual el alumnado conocerá su municipio haciendo un proceso de investigación. Finalizará con un producto final que consiste en una guía turística y vídeo explicativo.</td>\n</tr>\n<tr>\n<td style=\"width: 23.9493%;\">Autoría</td>\n<td style=\"width: 76.0507%;\">Mª ÁNGELES PASCUAL SÁNCHEZ</td>\n</tr>\n<tr>\n<td style=\"width: 23.9493%;\">Licencia</td>\n<td style=\"width: 76.0507%;\" title=\"\">\n<p><img src=\"https://creativecommons.org/licenses/by-sa/4.0/\" alt=\"\" /><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-15 a las 12.32.43.png\" width=\"204\" height=\"74\" alt=\"\" /><a href=\"https://creativecommons.org/licenses/by-sa/4.0/\"></a></p>\n<p><a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">https://creativecommons.org/licenses/by-sa/4.0/</a></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p>Este contenido fue creado con <a href=\"https://exelearning.net/\" title=\"\">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1778824301076-8x2ojkqv3</odePageId>
+      <odeBlockId>block-1778841286710-ghmblce4y</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778824301076-8x2ojkqv3</odePageId>
+          <odeBlockId>block-1778841286710-ghmblce4y</odeBlockId>
+          <odeIdeviceId>idevice-1778841286704-dq829i8c5</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">MI ENTORNO, MI PATRIMONIO</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">¡Hola mis queridos alumnos y alumnas! Nos aventuramos a comenzar nuestra siguiente misión... ¡descubrir nuestro entorno! Durante estas 3 semanas, nos dedicaremos a trabajar sobre nuestro entorno, concretamente sobre nuestro municipio, El Ejido. 
+Para ello, os tendréis que convertir en detectives especializados y descubrir todos los detalles que esconde El Ejido: entornos naturales, tradiciones, fauna y flora...
+
+Todo este trabajo lo realizaremos paso a paso, hasta llegar a nuestro producto final: la elaboración de una guía didáctica y un vídeo explicativo donde podáis mostrar vuestro municipio al resto.
+
+¿PREPARADOS¿ ¡QUE EMPIECE LA AVENTURA! 
+
+¡Mucha suerte y ánimo, campeones!</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Mª Ángeles Pascual Sánchez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
